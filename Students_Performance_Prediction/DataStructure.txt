@@ -1,0 +1,73 @@
+Students Performance Prediction in Online Courses Using Machine Learning Algorithms
+
+
+2020 International Joint Conference on Neural Networks (IJCNN),Issue Date:28.September.2020
+
+Massive Open Online Courses (MOOCs), Open University
+Learning Analytics Dataset (OULAD ),Receiver Operating
+Characteristic(ROC).
+
+
+Students_Performance_Prediction
+
+
+students_performance_prediction
+
+students assessments grades types(Below)
+
+Diagnostic ---classroom assignments, work samples, tests
+
+Formative -- involve asking students to answer higher-order questions such as “why” and “how.”
+
+Interim ---Interim Assessments can help teachers identify gaps in student understanding and instruction, and ideally teachers address these before moving on or by weaving remedies into upcoming instruction and activities.
+
+Summative(Below) 
+
+End-of-term or midterm exams.
+Cumulative work over an extended period such as a final project or creative portfolio.
+End-of-unit or chapter tests.
+Standardised tests that demonstrate school accountability are used for pupil admissions; SATs, GCSEs and A-Levels.
+
+
+Student_Name
+Enrollment_No
+Gender
+Contact_No
+Course_Name
+Degree_Name
+College_Name
+university_Name
+Online_Course_Media
+Conducted_Class
+Attended_Class
+Diagnostic_Assessments_Grade
+Formative_Assessments_Grade
+Interim_Assessments_Grade
+Summative_Assessments_Grade
+
+
+
+
+Performance Ratio
+
+
+names
+Enrollment_No
+Gender
+Course_Name
+Degree_Name
+College_Name
+perfromance
+
+
+
+
+
+
+
+
+
+
+
+
+
